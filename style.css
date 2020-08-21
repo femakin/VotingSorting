@@ -1,0 +1,16 @@
+/* .buttons {
+    display: flex;
+    width: 30%
+}
+
+.buttons * {
+    flex-grow: 1;
+    margin: 10px 15px;
+    font-weight: 900;
+    font-size: 25px
+}
+
+#fixedValue,
+#displayValue {
+    font-size: 20px
+} */
